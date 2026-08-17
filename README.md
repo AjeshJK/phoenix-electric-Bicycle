@@ -20,14 +20,22 @@ and fabrication of the final prototype.
 
 ## CAD
 
-The repository contains selected CAD models and engineering
-drawings of the bicycle and its major components.
-finalcad.jpg, finalcad.jpg
+The repository contains selected CAD models and engineering drawings of the bicycle and its major components.
 
+<p align="center">
+  <img src="./finalcad.jpg" width="700">
+</p>
+
+<p align="center">
+  <img src="./finalcad2.jpg" width="700">
+</p>
 
 ## Final Prototype
 
-final1.jpeg , final2.jpeg
+<p align="center">
+  <img src="./final1.jpeg" width="500">
+  <img src="./final2.jpeg" width="500">
+</p>
 
 ## Tools & Technologies
 
