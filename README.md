@@ -44,3 +44,15 @@ The repository contains selected CAD models and engineering drawings of the bicy
 - Product Development
 - Fabrication
 - 3D CAD Modelling
+
+  ## Fabrication Process
+
+<p align="center">
+  <a href="https://youtu.be/8H9SGpaH9rU">
+    <img src="https://img.youtube.com/vi/8H9SGpaH9rU/maxresdefault.jpg" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <b>▶️ Click the image to watch the complete fabrication process</b>
+</p>
